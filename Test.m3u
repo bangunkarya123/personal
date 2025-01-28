@@ -634,3 +634,15 @@ https://xyzdddd.mizhls.ru/lb/premium66/index.m3u8
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://xyzdddd.mizhls.ru/lb/premium415/360p.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="DAZNLaLiga.es" tvg-logo="https://www.freeshot.live/upload/source/DAZNLaLigalogo.png",DAZN LaLiga
+#EXTVLCOPT:http-user-agent=Firefox
+https://love2live.wideiptv.top/DAZNLaLiga/index.fmp4.m3u8?token=2b788e506635d9ceeab9eb8701e58e75d8c150d4-6a25b9916a5e191ffa372ef8f5cb3a45-1738083856-1738073056
+
+#EXTINF:-1 group-title="TV" tvg-id="MovistarLaLiga.es" tvg-logo="https://www.freeshot.live/upload/source/Movistar_LaLiga-logo.png",Movistar LaLiga
+#EXTVLCOPT:http-user-agent=Firefox
+https://love2live.wideiptv.top/LALIGAES/index.fmp4.m3u8?token=8e5b974614da014ee1c264d8b9ee21a3bd4cfee1-10e521e0b539feb3d528c4ece17368c5-1738083856-1738073056
+
+#EXTINF:-1 group-title="TV" tvg-id="FifaPlus.br" tvg-logo="https://www.freeshot.live/upload/source/FifaPlus-logo.png",FIFA+ Plus
+#EXTVLCOPT:http-user-agent=Firefox
+https://f7ccf7fc.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLXB0X0ZJRkFQbHVzUG9ydHVndWVzZV9ITFM/playlist.m3u8
